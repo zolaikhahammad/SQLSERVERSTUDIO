@@ -3,7 +3,7 @@
 Hi All,
 
 I have developed a WPF application in .netcore 3.1 that connects to sql server management studion. You can connect through windows authentication or can provide the sql credentials. 
-you have connected, it will show all the list of database in your sql server studio.
+When you have connected, it will show all the list of database in your sql server studio.
 
 clicking on database it will show all the related tables
 
