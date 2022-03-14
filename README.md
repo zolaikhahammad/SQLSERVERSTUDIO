@@ -12,3 +12,6 @@ Application Overview:
 6) Click on update then the values will be updated in the rows that contains that **from** keyword to the new values.
 7) A new clone of a table with primary/foreign keys will be created with the updated values (Previous table will be kept as it was).
 8) You can generate an excel report containing the information about how many rows were updated, what were the values before and after.
+
+
+**SOFTWARE NOT OWNED BY ANY COMPANY.**
