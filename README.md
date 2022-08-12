@@ -9,7 +9,7 @@ Application Overview:
 3) Select a database and all the tables related to the selected database will be displayed
 4) Select a table and click on the column that you want to update
 5) Add two keywords from and to. **From** the existing word that exists in the column of the selected table and **to** to the keyword that you want to update
-6) Click on update then the values will be updated in the rows that contains that **from** keyword to the new values.
+6) Click on update then the values will be updated in the rows that contains that **from** keyword to the new value in the **to** keyword.
 7) A new clone of a table with primary/foreign keys will be created with the updated values (Previous table will be kept as it was).
 8) You can generate an excel report containing the information about how many rows were updated, what were the values before and after.
 
